@@ -4,12 +4,12 @@ from random import choice
 from time import sleep
 import telebot
 
-bot = telebot.TeleBot('TOKEN')
+bot = telebot.TeleBot('6511014299:AAEIdpFOs818gKhuLYMVeFnd5zSWTGkZmM8')
 
 command_dict = {
-    '/start': 'Старт бота',
-    '/help': 'Помощь с ботом',
-    '/new_game': 'Запускает новую игру'
+    '/start': '111',
+    '/help': '222',
+    '/new_game': '333'
 }
 
 
